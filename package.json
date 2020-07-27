@@ -4,7 +4,7 @@
   "description": "",
   "dependencies": {},
   "devDependencies": {
-    "web-ext": "^2.3.0"
+    "web-ext": "^4.3.0"
   },
   "scripts": {
     "build": "web-ext build --ignore-files 'yarn*' 'package.json'",
