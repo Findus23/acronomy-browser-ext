@@ -1,0 +1,14 @@
+{
+  "name": "acronmomy-browser-ext",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {},
+  "devDependencies": {
+    "web-ext": "^2.3.0"
+  },
+  "scripts": {
+    "build": "web-ext build --ignore-files 'yarn*' 'package.json'",
+
+    "webext_lint": "web-ext lint --warnings-as-errors --ignore-files 'yarn*' 'package.json'"
+  }
+}
