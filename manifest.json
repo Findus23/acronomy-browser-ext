@@ -3,7 +3,7 @@
   "name": "Acronomy",
   "short_name": "Astronomical Acronym Search",
   "version": "1.0.0",
-  "description": "",
+  "description": "Quickly look up astronomical acronyms on acronomy.lw1.at",
   "permissions": [],
   "icons": {
     "1024": "icons/1024.png",
